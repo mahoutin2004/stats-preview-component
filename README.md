@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/mahoutin2004/stats-preview-component)
+- [Live site URL](https://mahoutin2004.github.io/stats-preview-component/)
 
 ## My process
 
@@ -76,3 +76,4 @@ I would like to continue to practice in:
 ## Author
 
 - Twitter - [@AhoumenouO](https://www.twitter.com/AhoumenouO)
+- Github - [mahoutin2004](https://github.com/mahoutin2004)
